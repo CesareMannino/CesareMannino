@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CesareMannino
 - 👀 I’m interested in Javascript; Python; web developement; ML and DS
-- 🌱 I’m currently learning Node.js and Javascript algorithms with Freecodecamp
+- 🌱 I’m currently creating a CRUD web app to manage database on line with mysql and nodejs
 - 💞️ I’m looking to collaborate on web development and ML/DS projects
 - 📫 How to reach me cesaremannino@hotmail.it
 
