@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CesareMannino
+- 👋 Hi, I’m CesareMannino
 - 👀 I’m interested in Javascript; Python; web developement; ML and DS
 - 🌱 I’m currently creating a CRUD web app to manage databases on line with MySQL and Node.js
 - 💞️ I’m looking to collaborate on web development and ML/DS projects
